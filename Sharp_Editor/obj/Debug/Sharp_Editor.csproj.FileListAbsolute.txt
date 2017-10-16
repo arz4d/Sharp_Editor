@@ -1,0 +1,18 @@
+c:\users\anvermam\documents\visual studio 2015\Projects\Sharp_Editor\Sharp_Editor\bin\Debug\Sharp_Editor.exe.config
+c:\users\anvermam\documents\visual studio 2015\Projects\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.csprojResolveAssemblyReference.cache
+c:\users\anvermam\documents\visual studio 2015\Projects\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.Form1.resources
+c:\users\anvermam\documents\visual studio 2015\Projects\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.Properties.Resources.resources
+c:\users\anvermam\documents\visual studio 2015\Projects\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.csproj.GenerateResource.Cache
+c:\users\anvermam\documents\visual studio 2015\Projects\Sharp_Editor\Sharp_Editor\bin\Debug\Sharp_Editor.exe
+c:\users\anvermam\documents\visual studio 2015\Projects\Sharp_Editor\Sharp_Editor\bin\Debug\Sharp_Editor.pdb
+c:\users\anvermam\documents\visual studio 2015\Projects\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.exe
+c:\users\anvermam\documents\visual studio 2015\Projects\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.pdb
+C:\Users\AnverMAM\Desktop\Sharp_Editor\Sharp_Editor\bin\Debug\Sharp_Editor.exe.config
+C:\Users\AnverMAM\Desktop\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.exe
+C:\Users\AnverMAM\Desktop\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.pdb
+C:\Users\AnverMAM\Desktop\Sharp_Editor\Sharp_Editor\bin\Debug\Sharp_Editor.exe
+C:\Users\AnverMAM\Desktop\Sharp_Editor\Sharp_Editor\bin\Debug\Sharp_Editor.pdb
+C:\Users\AnverMAM\Desktop\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.csprojResolveAssemblyReference.cache
+C:\Users\AnverMAM\Desktop\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.Form1.resources
+C:\Users\AnverMAM\Desktop\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.Properties.Resources.resources
+C:\Users\AnverMAM\Desktop\Sharp_Editor\Sharp_Editor\obj\Debug\Sharp_Editor.csproj.GenerateResource.Cache
